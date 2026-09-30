@@ -1,1 +1,3 @@
 rootProject.name = 'Coding'
+
+include 'java8-stream-practice'
